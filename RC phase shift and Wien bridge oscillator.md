@@ -18,12 +18,16 @@ The frequency of oscillation is given by fo = 1/2πRC
 ## CIRCUIT DIAGRAM:
 ### RC PHASE SHIFT OSCILLATOR:
 
-### WEIN BRIDGE:
+![WhatsApp Image 2025-12-04 at 09 54 35_defa5ef6](https://github.com/user-attachments/assets/6090c280-54ca-41a8-886c-55d0cf570ea4)
 
+### WEIN BRIDGE:
+![WhatsApp Image 2025-12-04 at 09 54 34_7793c2cc](https://github.com/user-attachments/assets/0037ccdf-0742-4c9e-9cd3-e8f38fb0641b)
 ## MODEL GRAPH:
 ### RC PHASE SHIFT OSCILLATOR:
+![WhatsApp Image 2025-12-04 at 10 01 57_5fccc057](https://github.com/user-attachments/assets/230fbb8b-25ac-4e83-a0ae-3d6f06315ec8)
 
 ### WEIN BRIDGE:
+![WhatsApp Image 2025-12-04 at 10 02 18_122cf021](https://github.com/user-attachments/assets/edc8dc27-5e2c-482f-bf8f-63a7643785ee)
 
 ## PROCEDURE:
 1. Connect the circuit as shown in fig. With the design values.
@@ -35,8 +39,10 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## TABULATION:
 ### RC PHASE SHIFT OSCILLATOR:
+![WhatsApp Image 2025-12-04 at 09 54 34_04d8ff9d](https://github.com/user-attachments/assets/c75c0d1e-5734-43d1-86a9-b056fcb9f33d)
 
 ### WEIN BRIDGE:
+![WhatsApp Image 2025-12-04 at 09 54 35_24d470b5](https://github.com/user-attachments/assets/587bece8-d73f-4ac9-9e5c-433bc99e13ca)
 
 ## CALCULATIONS:
 ### RC PHASE SHIFT OSCILLATOR:
@@ -45,8 +51,10 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## GRAPH:
 ### RC PHASE SHIFT OSCILLATOR:
+![WhatsApp Image 2025-12-04 at 09 54 35_197c07f1](https://github.com/user-attachments/assets/a51b5933-dd66-4f58-a7d8-26493726e508)
 
 ### WEIN BRIDGE:
+![WhatsApp Image 2025-12-04 at 10 01 23_660ee5f0](https://github.com/user-attachments/assets/4d88ddb3-6da7-4bdf-9202-2c47c428faf6)
 
 ## RESULT:
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
